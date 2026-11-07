@@ -1,0 +1,7 @@
+interface:
+  display_name: "C++ HPC Performance Engineering"
+  short_description: "Evidence-driven C++ HPC optimization workflow"
+  default_prompt: "Use $cpp-hpc-performance-engineering to diagnose and optimize this C++ workload with evidence, correctness checks, and reproducible benchmarks."
+
+policy:
+  allow_implicit_invocation: true
